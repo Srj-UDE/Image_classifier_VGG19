@@ -83,22 +83,22 @@ This app is hosted on Streamlit Cloud, accessible directly from the browser — 
 ---
 
 ## 🔮 Possible Future Improvements
-```
-🧱 Add support for other pretrained models (ResNet, MobileNet, etc.)
-⚙️ Include top-k predictions visualization
-📁 Allow custom-trained model upload
-🎨 Enhance UI with richer image result displays
-```
+
+- 🧱 Add support for other pretrained models (ResNet, MobileNet, etc.)
+- ⚙️ Include top-k predictions visualization
+- 📁 Allow custom-trained model upload
+- 🎨 Enhance UI with richer image result displays
+
 ---
 ## 🛠 Tech Stack
-```
-Python
-TensorFlow / Keras
-Streamlit
-NumPy
-Pandas
-Matplotlib
-``` 
+
+- Python
+- TensorFlow / Keras
+- Streamlit
+- NumPy
+- Pandas
+- Matplotlib
+ 
 ---
 
 ## ⚠️ Disclaimer
