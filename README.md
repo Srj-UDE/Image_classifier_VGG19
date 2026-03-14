@@ -21,17 +21,17 @@ This project demonstrates how a deep learning model can be deployed interactivel
 
 ```
 User Upload / Webcam Capture
-│
-▼
+            │
+            ▼
 Image Preprocessing (resize to 224x224, normalize)
-│
-▼
+            │
+            ▼
 VGG19 Model (pretrained on ImageNet)
-│
-▼
+            │
+            ▼
 Prediction (Top Class + Confidence)
-│
-▼
+            │
+            ▼
 Display Results in Streamlit Interface
 ```
 ---
@@ -83,22 +83,22 @@ This app is hosted on Streamlit Cloud, accessible directly from the browser — 
 ---
 
 ## 🔮 Possible Future Improvements
-
+```
 🧱 Add support for other pretrained models (ResNet, MobileNet, etc.)
 ⚙️ Include top-k predictions visualization
 📁 Allow custom-trained model upload
 🎨 Enhance UI with richer image result displays
-
+```
 ---
 ## 🛠 Tech Stack
-
+```
 Python
 TensorFlow / Keras
 Streamlit
 NumPy
 Pandas
 Matplotlib
- 
+``` 
 ---
 
 ## ⚠️ Disclaimer
