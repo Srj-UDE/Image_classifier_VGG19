@@ -18,7 +18,7 @@ st.header("Image Classifier with VGG19", divider="rainbow")
 
 st.sidebar.markdown("### A Project by SRIJAN KUMAR SAHA")
 
-st.markdown("This project is a web-based image classification app built that allows users to upload images or capture them directly from the webcam. The app uses the pretrained VGG19 convolutional neural network from TensorFlow/Keras to classify images into one of the categories it was trained on.")
+st.markdown("This project is a web-based image classification app that allows users to upload images or capture them directly from the webcam. The app uses the pretrained VGG19 convolutional neural network from TensorFlow/Keras to classify images into one of the categories it was trained on.")
 
 st.markdown("##### Project Features:\n"
     "- Accepts images via upload or webcam capture.\n"
