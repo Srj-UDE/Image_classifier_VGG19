@@ -8,7 +8,7 @@ This project demonstrates how a deep learning model can be deployed interactivel
 
 ## 🚀 Features
 
-- 📸 Upload or capture images directly via webcam 
+- 📸 Upload or capture images directly via webcam  
 - 🧠 Uses pretrained VGG19 (ImageNet) model from TensorFlow/Keras  
 - 🔍 Automatically resizes all images to 224×224 pixels  
 - ⚙️ Preprocesses input and returns predicted class & confidence score  
