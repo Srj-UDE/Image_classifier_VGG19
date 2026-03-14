@@ -19,6 +19,7 @@ This project demonstrates how a deep learning model can be deployed interactivel
 
 ## 🏗 Project Architecture
 
+```
 User Upload / Webcam Capture
 │
 ▼
@@ -32,7 +33,7 @@ Prediction (Top Class + Confidence)
 │
 ▼
 Display Results in Streamlit Interface
-
+```
 ---
 
 ## 🧠 Model Overview
@@ -60,9 +61,8 @@ pip install -r requirements.txt
 ---
 
 ## ▶️ Running the Application
-```bash
+
 Start the Streamlit application with:
-```
 
 ```bash
 streamlit run classification.py
